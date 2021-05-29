@@ -1,5 +1,8 @@
 import React from "react";
 import { isHidden } from "@org/commonUtil";
+// const isHidden = (value) => {
+//   return value;
+// };
 
 interface Props {
   id: string;

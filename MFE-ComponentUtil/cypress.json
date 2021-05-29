@@ -1,0 +1,10 @@
+{
+  "experimentalComponentTesting": true,
+  "componentFolder": "cypress/__tests__",
+  "specFiles": "*.spec.tsx",
+  "supportFile": "cypress/support/index.ts",
+  "pluginsFile": "cypress/plugins/index.js",
+  "videoCompression": false,
+  "video": false,
+  "videoUploadOnPasses": false
+}
